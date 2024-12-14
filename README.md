@@ -330,7 +330,88 @@ Publish the website in the given URL.
 </body>
 
 </html>
+~~~
+##admin
+~~~
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>Abheek Web Page</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <nav class="navbar background">
+        <div class="logo">
+            <img src="images/sheraton-atlanta-hotel-logo.png" style="height: 40px;" alt="Logo">
+        </div>
+        <ul class="nav-list">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="admin.html">Administration</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <div class="bottom-images">
+        <div class="image-container">
+            <div class="image-text">Dong Lee</div>
+            <img src="images/chef1.png" alt="Chef 1">
+            <div class="bottom-text">
+                Head Chef.
+            </div>
+        </div>
+        <div class="image-container">
+            <div class="image-text">Naruto</div>
+            <img src="images/chef6.jpg" alt="Chef 2">
+            <div class="bottom-text">
+              Asst Head Chef.
+            </div>
+        </div>
+        <div class="image-container">
+            <div class="image-text">Damu</div>
+            <img src="images/chef3.jpeg" alt="Chef 3">
+            <div class="bottom-text">
+                Chief Manager.
+            </div>
+        </div>
+    </div>
+
+    <div class="bottom-images">
+        <div class="image-container">
+            <div class="image-text">Kevin Hart</div>
+            <img src="images/chef4.avif" alt="Chef 4">
+            <div class="bottom-text">
+                Chinese chef.
+            </div>
+        </div>
+        <div class="image-container">
+            <div class="image-text">John</div>
+            <img src="images/chef5.avif" alt="Chef 5">
+            <div class="bottom-text">
+                Indo Asian chef.
+            </div>
+        </div>
+        <div class="image-container">
+            <div class="image-text">Smith</div>
+            <img src="images/chef2.jpeg" alt="Chef 6">
+            <div class="bottom-text">
+                Indian chef.
+            </div>
+        </div>
+    </div>
+
+    <footer class="background">
+        <p class="text-footer">
+            Copyright ©-All rights are reserved
+        </p>
+    </footer>
+</body>
+
+</html>
 ~~~
 ##css
 ~~~
@@ -741,6 +822,8 @@ img {
 ![Screenshot (44)](https://github.com/user-attachments/assets/d30bd5ae-e55c-4ac9-832b-6a607bd78d44)
 ![Screenshot (45)](https://github.com/user-attachments/assets/8e8cda43-ed7c-4efe-ac30-c8854926893e)
 ![Screenshot (46)](https://github.com/user-attachments/assets/1aa09860-47b0-44c1-836b-5cdb59a9ccbc)
+![Screenshot (61)](https://github.com/user-attachments/assets/19698925-7cc9-4c52-8854-f4d5cfe50ccc)
+
 
 
 
